@@ -1,0 +1,22 @@
+{
+  "name": "trabajo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmanuelr30/Trabajo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jmanuelr30/Trabajo/issues"
+  },
+  "homepage": "https://github.com/Jmanuelr30/Trabajo#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
