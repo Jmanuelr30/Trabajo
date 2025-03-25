@@ -10,6 +10,14 @@ const Tareas = [
 ];
 
 app.get('/', (req, res) => {
+    res.json({
+        message: 'APi de gestion de tareas',
+        status: 'online',
+        version: '1.0.0'
+    })
+})
+
+app.get('/', (req, res) => {
     res.send("Mi node JS APIs")
 });
 
