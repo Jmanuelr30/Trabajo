@@ -12,7 +12,7 @@ const Tareas = [
 app.get('/', (req, res) => {
     res.json({
         message: 'APi de gestion de tareas',
-        status: 'online',
+        status: 'en linea',
         version: '1.0.0'
     })
 })
